@@ -1,0 +1,12 @@
+button{
+    height: 40px;
+    background-color: var(--sp-solor-button);
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px var(--sp-solor-button-dark);
+    color: var(--sp-solor-button-text);
+    font-weight: 600;
+    width: 300px;
+    /* margin-top: 50px; */
+    /* text-align: center; */
+}

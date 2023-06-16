@@ -1,0 +1,17 @@
+.l {
+  text-decoration: none;
+  color: rgb(0, 3, 19);
+  transition: color 100ms ease-in-out;
+}
+.l:hover {
+  color: rgb(0, 177, 177);
+}
+
+.k {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  transition: color 100ms ease-in-out;
+}
+.k:hover {
+  color: rgb(192, 149, 30);
+}
